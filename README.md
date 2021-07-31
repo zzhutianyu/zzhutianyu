@@ -1,5 +1,34 @@
 ### Hi there 👋
+## zhutianyu
+<div>
+  <a href="https://github.com/zzhutianyu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzhutianyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzhutianyu&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="right" alt="Rafa-yoda" height="40" width="40" src="https://avatars.githubusercontent.com/u/25198289?v=4">
+</div>
+  
+## 关于我
+- 🌚 一位鹅厂工程师
+- 👀毕业于浙江工业大学
+- 🙌 是一个擅长 <del>c++</del> Go Python等语言的devops
+- 👓在腾讯ieg负责游戏业务运维和运维开发工作
+- 😃向着技术专家迈进
 
+## 开源贡献
+- [open-telemetry](https://github.com/open-telemetry)
+ 
+<div> 
+  <a href = "mailto:zxz@zhuxingzhao.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/zzhutianyui/zzhutianyui/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <!--
 **zzhutianyu/zzhutianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
