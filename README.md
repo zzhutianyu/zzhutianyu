@@ -26,7 +26,7 @@
 <div> 
   <a href = "mailto:zxz@zhuxingzhao.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/zzhutianyui/zzhutianyui/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zzhutianyu/zzhutianyu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
