@@ -7,13 +7,14 @@
               <a href="https://github.com/zzhutianyu">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zzhutianyu&theme=github">
   </a>
+           </div>
 </div>
     <div align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzhutianyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
 
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
