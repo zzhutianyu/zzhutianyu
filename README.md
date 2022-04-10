@@ -7,10 +7,7 @@
   </a>
 </div>
      
-<div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzhutianyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-</div>
 
 
 <div style="display: inline_block"><br>
@@ -28,10 +25,15 @@
 ## 关于我
 - 🌚 一位鹅厂工程师
 - 👀毕业于浙江工业大学
-- 🙌 是一个擅长 <del>c++</del> Go Python等语言的devops
+- 🙌 是一个擅长 <del>c++</del> Go Python等语言的devops|SRE
+- 关注Cloud-Native Observability、各种研发效能领域、SRE
 - 👓在腾讯ieg负责游戏业务运维和运维开发工作
 - 😃向着技术专家迈进
 
+<div align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzhutianyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
 ## 开源贡献
 - [open-telemetry](https://github.com/open-telemetry)
  
