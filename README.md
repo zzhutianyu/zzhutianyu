@@ -23,7 +23,7 @@
 </div>
   
 ## 关于我
--<del> 🌚 一位鹅厂工程师 </del>
+- <del> 🌚 一位鹅厂工程师 </del>
 - 👀毕业于浙江工业大学
 - 🙌 是一个擅长 <del>c++</del> Go Python等语言的devops|SRE
 - 关注Cloud-Native Observability、各种研发效能领域、SRE
